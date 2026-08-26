@@ -1,5 +1,5 @@
 context:
-  version: "3.9.19"
+  version: "3.9.20"
 
 package:
   name: lean-ctx
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/yvgude/lean-ctx/releases/download/v${{ version }}/lean-ctx-${{ version }}-source.tar.gz
-  sha256: 8788494f4dacb2e8105f1d600b0abce9d9acb9fdff7f104da19895230419ff81
+  sha256: 32dd725ff4c529dc37f95f7d844a94c304cd8ec3055fa5f7f7a2d18d54fb3e9a
 
 build:
   number: 0
