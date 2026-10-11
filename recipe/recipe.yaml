@@ -1,5 +1,5 @@
 context:
-  version: "3.11.3"
+  version: "3.11.4"
 
 package:
   name: lean-ctx
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/yvgude/lean-ctx/releases/download/v${{ version }}/lean-ctx-${{ version }}-source.tar.gz
-  sha256: 0865f1989cc30e2ea82de9de62ca3582561cefaa391e8923f777d3ddea9b29fd
+  sha256: 401bf1dfb9c1ed268e1425717b73e3309768d5458e8fa52a1ae53cc9a3592b9e
 
 build:
   number: 0
