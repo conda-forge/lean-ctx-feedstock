@@ -10,7 +10,7 @@ source:
   sha256: 401bf1dfb9c1ed268e1425717b73e3309768d5458e8fa52a1ae53cc9a3592b9e
 
 build:
-  number: 0
+  number: 1
   script:
     interpreter: brush
     env:
